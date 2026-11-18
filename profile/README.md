@@ -1,4 +1,4 @@
-![Robotweax — Intelligence. In every stream. Video, Broadcast, Networking.](assets/robotweax-header.png)
+![Robotweax — Intelligence. In every stream. Video, Broadcast, Networking.](assets/robotweax-srt-header.png)
 
 We develop software for video streaming, broadcast, networking and intelligent automation. This is the home of our public engineering projects.
 
