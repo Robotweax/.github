@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="400" viewBox="0 0 1600 400" role="img" aria-labelledby="title desc">
+<title id="title">Robotweax — Video, Broadcast, Networking</title>
+<desc id="desc">Robotweax wordmark beside an SRT diagram: media travels from sender to receiver, a loss report returns to the sender, and the sender retransmits the missing packet.</desc>
+<rect width="1600" height="400" fill="#00387B"/>
+<path d="M1200 0H1600V400H1200Z" fill="#082E60"/>
+<path d="M1200 40V360" stroke="#315782" stroke-width="1"/>
+<g transform="translate(68 76) scale(.8)">
+<path fill="#FFFFFF" d="M4 5h104c30 0 48 17 48 43 0 20-10 33-25 40l54 57H57l50-44-41-39h40c12 0 18-4 18-12s-6-13-18-13H41L4 5Z"/>
+<path fill="#F46B25" d="M15 53c0-4 4-6 7-3l49 38c3 2 3 5 0 7l-49 36c-3 3-7 1-7-3V53Z"/>
+</g>
+<text x="252" y="166" font-family="Arial,Helvetica,sans-serif" font-size="90" font-weight="900" letter-spacing="-3"><tspan fill="#FFFFFF">ROBO</tspan><tspan fill="#F46B25">TWEAX</tspan></text>
+<text x="72" y="267" fill="#FFFFFF" font-family="Arial,Helvetica,sans-serif" font-size="36" font-weight="400">Intelligence. In every stream.</text>
+<text x="74" y="333" fill="#C3D9ED" font-family="Arial,Helvetica,sans-serif" font-size="20" letter-spacing="4">VIDEO · BROADCAST · NETWORKING</text>
+<g font-family="Arial,Helvetica,sans-serif">
+<text x="1240" y="79" fill="#FFFFFF" font-size="30" font-weight="700">Robotweax SRT</text>
+<text x="1240" y="113" fill="#C3D9ED" font-size="18">Secure Reliable Transport</text>
+<text x="1240" y="160" fill="#FFFFFF" font-size="19">Sender</text>
+<text x="1560" y="160" fill="#FFFFFF" font-size="19" text-anchor="end">Receiver</text>
+<path d="M1250 177V342M1550 177V342" stroke="#315782" stroke-width="2"/>
+<text x="1400" y="190" fill="#C3D9ED" font-size="17" text-anchor="middle">Media packets</text>
+<path d="M1250 208H1547l-10-6m10 6-10 6" fill="none" stroke="#C3D9ED" stroke-width="2"/>
+<g fill="#C3D9ED" stroke="#082E60" stroke-width="4"><rect x="1300" y="199" width="22" height="18"/><rect x="1340" y="199" width="22" height="18"/><rect x="1420" y="199" width="22" height="18"/></g>
+<rect x="1380" y="200" width="20" height="16" fill="#082E60" stroke="#F46B25" stroke-width="2" stroke-dasharray="3 3"/>
+<text x="1400" y="252" fill="#C3D9ED" font-size="17" text-anchor="middle">Loss report</text>
+<path d="M1550 270H1253l10-6m-10 6 10 6" fill="none" stroke="#6F8DAE" stroke-width="2"/>
+<text x="1400" y="314" fill="#F46B25" font-size="17" text-anchor="middle">Retransmission</text>
+<path d="M1250 332H1547l-10-6m10 6-10 6" fill="none" stroke="#F46B25" stroke-width="2"/>
+<rect x="1380" y="323" width="22" height="18" fill="#F46B25" stroke="#082E60" stroke-width="3"/>
+</g>
+</svg>
